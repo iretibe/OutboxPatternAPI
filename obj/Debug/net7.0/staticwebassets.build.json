@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nMbDeLJUtikFdOzYgNNPLZ2VkNebm9hNQ4ILbKtFRvE=",
+  "Source": "OutboxPatternAPI",
+  "BasePath": "_content/OutboxPatternAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
